@@ -36,7 +36,7 @@ Built as a **hands-on ML + Streamlit application**, this project focuses on prac
 ---
 
 ## 📂 Project Structure
-'''
+```
 Sarcasm_Detector/
 │
 ├── app.py # Streamlit application
@@ -44,5 +44,6 @@ Sarcasm_Detector/
 ├── requirements.txt # Dependencies
 ├── sarcasm_detecror.ipynb # Model experimentation
 ├── .gitignore
-└── README.md'''
+└── README.md
+```
 
