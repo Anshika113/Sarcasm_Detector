@@ -43,7 +43,7 @@ Sarcasm_Detector/
 ├── app.py
 ├── train.csv
 ├── requirements.txt
-├── sarcasm_detecror.ipynb
+├── sarcasm_detector.ipynb
 ├── .gitignore
 └── README.md
 ```
