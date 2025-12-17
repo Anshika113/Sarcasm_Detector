@@ -46,3 +46,17 @@ Sarcasm_Detector/
 ├── sarcasm_detecror.ipynb
 ├── .gitignore
 └── README.md
+
+---
+
+---
+
+## 👩‍💻 Team — Tone Tracer
+
+This project was developed as a **group project** under the team name **Tone Tracer**.
+
+### 👤 Team Member
+- **Anshika Mishra** —  
+  *Machine Learning, NLP preprocessing, model training, and Streamlit application development*
+
+⭐ If you find this project useful, consider starring the repository.
