@@ -17,6 +17,20 @@ Built as a **hands-on ML + Streamlit application**, this project focuses on prac
 
 ---
 
+---
+
+## 🖥️ Application Demo & Usage
+
+### ▶️ Running the Application
+
+Activate the virtual environment and run the Streamlit app:
+
+```bash
+venv\Scripts\activate
+streamlit run app.py
+
+---
+
 ## 🧠 How It Works
 1. User enters a sentence
 2. Text is cleaned (lowercasing, URL removal, noise filtering)
