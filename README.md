@@ -46,6 +46,8 @@ Sarcasm_Detector/
 ├── sarcasm_detecror.ipynb
 ├── .gitignore
 └── README.md
+```
+
 
 ---
 
