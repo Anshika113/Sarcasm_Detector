@@ -1,4 +1,5 @@
 # 🤖 Sarcasm Detection System  
+### Team Project — *Tone Tracer*
 
 Ever wondered whether a sentence is sarcastic or genuinely serious?  
 This project uses **Machine Learning and NLP** to automatically detect sarcasm in text with confidence scores.
