@@ -25,9 +25,11 @@ Built as a **hands-on ML + Streamlit application**, this project focuses on prac
 
 Activate the virtual environment and run the Streamlit app:
 
-```bash
+```
 venv\Scripts\activate
 streamlit run app.py
+```
+
 
 ---
 
