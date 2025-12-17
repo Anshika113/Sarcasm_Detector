@@ -44,5 +44,5 @@ Sarcasm_Detector/
 ├── requirements.txt # Dependencies
 ├── sarcasm_detecror.ipynb # Model experimentation
 ├── .gitignore
-└── README.md
+└── README.md'''
 
