@@ -5,6 +5,10 @@ The model provides **real-time predictions with confidence scores**, and include
 
 ---
 
+## 🌐 Live System
+
+🔗 https://sarcasm-detector-ohi2.onrender.com/
+
 ## 🧠 Model Details
 
 | Component | Description |
